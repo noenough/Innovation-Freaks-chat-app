@@ -15,6 +15,7 @@ This is the frontend part, frontend must work with the backend: [backend_link](h
 - React.js
 - Node.js
 - Socket.io
+- Tailwind CSS
 - Zustand(npm package)
 - JWT
 ---
